@@ -2,4 +2,4 @@
 
 I'm just learning git today, it's very exciting.
 
-Collorating is key!
+Collaborating is key!
